@@ -26,4 +26,4 @@
 
 **Fluxo de Conversa:** A integração do CLU com o Azure Bot Service permite a criação de fluxos de conversa dinâmicos e inteligentes. O bot pode entender a solicitação do usuário, extrair os parâmetros necessários e tomar as ações apropriadas, como consultar um banco de dados ou chamar uma API.
 
-**Multilinguismo:** O CLU suporta múltiplos idiomas, permitindo que os bots interajam com uma audiência global. teste de commit
+**Multilinguismo:** O CLU suporta múltiplos idiomas, permitindo que os bots interajam com uma audiência global.
